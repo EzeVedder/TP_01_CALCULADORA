@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523656828 source:c:\users\eze\desktop\desktop\lab-prog\bibliotecadefunciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1523656779 c:\users\eze\desktop\desktop\lab-prog\bibliotecadefunciones\funciones.h
+
+1523656695 source:c:\users\eze\desktop\desktop\lab-prog\tp_01\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../BibliotecaDeFunciones/Funciones.h"
+
+1523663635 source:c:\users\eze\desktop\tp_01_calculadora\bibliotecadefunciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1523665225 c:\users\eze\desktop\tp_01_calculadora\bibliotecadefunciones\funciones.h
+
+1523665061 source:c:\users\eze\desktop\tp_01_calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BibliotecaDeFunciones/Funciones.h"
+

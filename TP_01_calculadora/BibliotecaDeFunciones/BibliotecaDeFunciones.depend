@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1523498256 source:c:\users\eze\documents\utn\2018\bibliotecadefunciones\funciones.c
+
+1523503433 source:c:\users\eze\documents\utn\2018\bibliotecadefunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523533818 source:c:\users\alumno\desktop\clase05\bibliotecadefunciones\funciones.c
+
+1523533818 source:c:\users\alumno\desktop\clase05\bibliotecadefunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523592095 source:c:\users\eze\desktop\labi\bibliotecadefunciones\funciones.c
+
+1523591820 source:c:\users\eze\desktop\labi\bibliotecadefunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523620519 source:c:\users\alumno\desktop\desktop\clase_06\bibliotecadefunciones\funciones.c
+
+1523627732 source:c:\users\alumno\desktop\desktop\clase_06\bibliotecadefunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1523646464 source:c:\users\eze\desktop\desktop\lab-prog\bibliotecadefunciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1523646289 source:c:\users\eze\desktop\desktop\lab-prog\bibliotecadefunciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1523645161 c:\users\eze\desktop\desktop\lab-prog\bibliotecadefunciones\funciones.h
+
