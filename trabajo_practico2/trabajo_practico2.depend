@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1526010794 source:c:\users\ezepane\documents\utn\2018\trabajo_practico2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Funciones.h"
+
+1526010999 source:c:\users\ezepane\documents\utn\2018\trabajo_practico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Funciones.h"
+
+1526010099 c:\users\ezepane\documents\utn\2018\trabajo_practico2\funciones.h
+
